@@ -7,7 +7,7 @@ Features:
 
 Looking for dev work? Or server files?
 
-Join our discord : [[https://discord.gg/awbsZCkzmc](https://discord.gg/EX4WDgx64G)](https://discord.gg/EX4WDgx64G)
+Join our discord : (https://discord.gg/EX4WDgx64G)
 
 
 HOW TO USE
