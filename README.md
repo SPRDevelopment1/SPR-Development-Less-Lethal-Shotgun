@@ -18,4 +18,4 @@ ensure sprwpn
 
 The shotgun it uses is the sawoff so it just replaces the old one mkae sure to use that one.
 
-Made By sleezy#6197
+Made By sleezydev
